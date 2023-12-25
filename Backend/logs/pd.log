@@ -1,0 +1,11 @@
+2023-12-13 01:15:03.146 | DEBUG    | pd.init.init:fastapi:24 - init fastapi
+2023-12-13 01:15:03.152 | DEBUG    | pd.init.init:fastapi:34 - path: .
+2023-12-13 01:15:03.153 | DEBUG    | pd.init.init:fastapi:35 - name: TGT
+2023-12-13 01:15:03.154 | DEBUG    | pd.init.init:fastapi:36 - full_path: .\TGT
+2023-12-13 01:15:03.161 | DEBUG    | pd.init.init:fastapi:39 - Copying C:\Users\umair\AppData\Local\Programs\Python\Python311\Lib\site-packages\pd\init\templates\pd-fastapi to .\TGT
+2023-12-13 01:16:19.664 | DEBUG    | pd.config.config:manage_projects:130 - projects add
+2023-12-13 01:16:19.665 | DEBUG    | pd.config.config:validate_project:189 - ptype: fastapi
+2023-12-13 01:16:19.667 | DEBUG    | pd.config.config:validate_project:190 - path: E:\truth
+2023-12-13 01:16:19.668 | DEBUG    | pd.config.config:validate_project:191 - name: .\TGT
+2023-12-13 01:16:19.668 | DEBUG    | pd.config.config:validate_project:192 - full_path: E:\truth\.\TGT
+2023-12-13 01:16:19.670 | DEBUG    | pd.config.config:save_pdconfig:36 - Saved config to C:\Users\umair/.pdconfig.json
